@@ -147,6 +147,10 @@ select {
    text-align: center;   
 }
 
+select {
+  text-transform: capitalize !important;
+}
+
 /* media queries which will only be activated at specific screen sizes */
 @media (max-width: 800px) {
   #table-area td {
