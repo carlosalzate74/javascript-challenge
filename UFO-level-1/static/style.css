@@ -151,6 +151,14 @@ select {
   text-transform: capitalize !important;
 }
 
+.bg-dark {
+    background-color: #4E5D6C !important;
+}
+
+a {
+  font-size: 16px;
+}
+
 /* media queries which will only be activated at specific screen sizes */
 @media (max-width: 800px) {
   #table-area td {
