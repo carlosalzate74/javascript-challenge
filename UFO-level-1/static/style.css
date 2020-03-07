@@ -148,7 +148,7 @@ select {
 }
 
 select {
-  text-transform: capitalize !important;
+  text-transform: uppercase !important;
 }
 
 .bg-dark {
